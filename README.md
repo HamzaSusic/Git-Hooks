@@ -42,7 +42,7 @@ Open the commit-msg file in a text editor (you can use any text editor you prefe
 nano commit-msg
 ```
 
-## step 7
+## Step 7
 
 Add the following code to the commit-msg file:
 
@@ -62,11 +62,11 @@ if ! [[ $COMMIT_MSG =~ $COMMIT_MSG_PATTERN ]]; then
 fi
 ```
 
-## STep 8
+## Step 8
 
 Save the file and exit the text editor.
 
-## STep 9
+## Step 9
 
 Test the Hook
 
