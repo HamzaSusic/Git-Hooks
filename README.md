@@ -78,7 +78,7 @@ git commit -m "Added a new feature that does a lot of things and is too long for
 
 The hook should reject the commit and display an error message.
 
-# Step 10
+## Step 10
 
 Once you've verified that the hook works as expected, push your local changes to the GitHub repository:
 
