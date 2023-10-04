@@ -2,11 +2,11 @@
 
 ## Step 1
 
-Make a repository on github!
+Make a repository on GitHub!
 
 ## Step 2 
 
-Clone the repo to your pc!
+Clone the repository to your PC!
 
 
 ## Step 3
